@@ -1,2 +1,2 @@
 # Maze-Generator
-This program generates random mazes and solves them or lets the user solve them.
+This program generates random mazes and solves them or lets the user solve them. To start the program, run MazeGenerator.java in the Maze Generator folder. The controls are simple. Arrow keys control the user's location, the user cannot move through walls. The space bar generates a new maze. The mazes will always have a solution. Pressing the 'S' key shows the path the computer takes while solving the maze. Pressing the 'Q' or escape keys will close the program. 
